@@ -12,7 +12,7 @@
 - 🌱 Currently learning more about:  
   - Computer Vision  
   - NLP  
-  - Full-Stack Web Development (Angular + Django)
+  - Full-Stack Web Development (Angular + Django / Apache + PHP)
 - 🧪 Exploring: AI Chatbots, Custom Gesture Learning, and Fitness Tech
 - 💬 Ask me about anything related to Python, Angular, OpenCV, or AI
 - ⚡ Fun fact: I mix code with gym reps 💪
