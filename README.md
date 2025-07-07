@@ -7,13 +7,12 @@
 
 ### 🧠 About Me
 - 🔭 I'm currently working on:  
-  🚀 An **AI-Powered Real-Time Sign Language Interpreter** using Computer Vision and Deep Learning  
-  ✈️ An **Airline Booking System** (Angular + Django REST)
+  🚀 An **AI-Powered Baybayin Transliteration** using Computer Vision and Deep Learning  
 - 🌱 Currently learning more about:  
   - Computer Vision  
   - NLP  
-  - Full-Stack Web Development (Angular + Django / Apache + PHP)
-- 🧪 Exploring: AI Chatbots, Custom Gesture Learning, and Fitness Tech
+  - Full-Stack Web Development (Angular + Django / Apache + PHP / Laravel + PHP)
+- 🧪 Exploring: OCR, Deep Learning, and Fitness Tech
 - 💬 Ask me about anything related to Python, Angular, OpenCV, or AI
 - ⚡ Fun fact: I mix code with gym reps 💪
 
