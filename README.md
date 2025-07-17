@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jhedver 👋</h1>
+<h1 align="center">Hi there, I'm Jhed!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Developer;Always+Learning+Something+New;Lover+of+Tech+%26+Innovation&center=true&width=500&height=50" />
 </p>
